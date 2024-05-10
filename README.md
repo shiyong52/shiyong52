@@ -15,7 +15,8 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiyong52&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Python, C+, Machine Learning, Web Application**
