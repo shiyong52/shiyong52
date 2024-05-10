@@ -28,14 +28,17 @@
 
 <!-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS** -->
 
-- 📝 I do not regularly write articles.
+- 📚 I’m a first year Computer Engineering undergraduate in National University of Singapore<br>
 
 - 💬 Ask me about **Python, C+**
 
-- 📫 Feel free to reach me out
+- 🏆 My certifications: 
+<ul>
+  <li>AISG - Foundation in AI</li>
+  <li>Udemy: C Programming For Beginners - Master the C language</li>
+  <li>CS50x</li>
+</ul>
 <!--Intro end-->
-
-
 
 <!--- stats & Trophy (start) -->
 <p align="center">
