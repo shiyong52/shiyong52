@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning **to build an AI chatbot**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+<!-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS** -->
 
 - 📝 I do not regularly write articles.
 
